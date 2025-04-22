@@ -27,7 +27,7 @@ Predict customer churn and prescribe targeted retention strategies for telecom c
 | **At-Risk**   | 70%        | High int'l charges, low engagement  | Personalized cost relief offers     |
 
 **ROC Curve**:  
-![ROC Curve](https://via.placeholder.com/500x300?text=ROC+AUC+0.99) *(Replace with actual image link)*  
+roc_curve.png
 
 ---
 
