@@ -26,10 +26,11 @@ Predict customer churn and prescribe targeted retention strategies for telecom c
 | **On-the-Fence** | 45%     | Avoids premium features             | Bundle discounts (voicemail + int'l)|
 | **At-Risk**   | 70%        | High int'l charges, low engagement  | Personalized cost relief offers     |
 
-**ROC Curve**:  
+  
 [roc_curve.png](https://github.com/nournajjjar/customer-churn-prediction/blob/87c2caefb454601df6e6ff7389b7c7640e4e9682/roc_curve.png)
 
 ---
+
 
 ## 🛠️ **Technical Implementation**  
 ### **Data Prep**  
